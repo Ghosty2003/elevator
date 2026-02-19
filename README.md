@@ -48,11 +48,3 @@ Provides:
 
 - Real-time status updates
 
-## Technologies Used
-
-- C++ 
-
-- Qt Framework (Qt Widgets / Qt Creator)
-
-- Event-driven architecture
-
